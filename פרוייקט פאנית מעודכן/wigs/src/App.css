@@ -1,0 +1,74 @@
+
+#top-nav {
+  background-color: #333;
+  padding: 10px 20px;
+  text-align: justify;
+}
+
+#top-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#top-nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+#top-nav ul li:last-child {
+  margin-right: 0;
+}
+
+#top-nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#top-nav ul li a:hover {
+  color: #ccc;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center; /* Center the text */
+}
+
+main {
+  padding: 20px;
+  text-align: center; /* Center the content */
+}
+
+#wig-picture {
+  background-image: url('./assets/wig3.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-blend-mode: multiply;
+  height: 800px; 
+}
+#image1{
+  width: 200px;
+  height: 300px;
+}
+
+button{
+  background-color: black;
+  border-color: #fff ;
+  color: #fff;
+}
+button:hover{
+  border-color: black ;
+  background-color: #fff;
+  color: black;
+}
+body{
+  text-align: center;
+}
+
+input{
+  border: nnoe;
+  outline: none;
+  background-color: #f2f2f2;
+}

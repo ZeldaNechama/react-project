@@ -1,0 +1,29 @@
+[
+    {
+        "descerpetion": "combing a wig",
+        "price": "120",
+        "time": "30",
+        "AmountOfmeatings": "1",
+        "id": "19dd12e9-0b2f-48a2-8aeb-2f508517738d",
+        "name": "regular",
+        "businessId": "b9b05a9a-0758-422a-a7da-def7519c494b"
+    },
+    {
+        "descerpetion": "build a wig from scratch",
+        "price": "12000",
+        "time": "90",
+        "AmountOfmeatings": "3",
+        "id": "20745937-64eb-49f7-9e96-dd5fec58df09",
+        "name": "new",
+        "businessId": "b9b05a9a-0758-422a-a7da-def7519c494b"
+    },
+    {
+        "descerpetion": "Wig design",
+        "price": "2000",
+        "time": "90",
+        "AmountOfmeatings": "1",
+        "id": "53e23e9b-1b2f-4ff4-a18e-156351af0562",
+        "name": "speical",
+        "businessId": "b9b05a9a-0758-422a-a7da-def7519c494b"
+    }
+]
